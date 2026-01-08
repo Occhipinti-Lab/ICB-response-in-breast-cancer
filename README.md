@@ -11,6 +11,7 @@ The primary objectives of this repository are to:
 The data can be downloaded at : 
 Repository Structure
 
+```text
 ├── data/
 │   ├── bulk/                # Bulk RNA-seq and metabolomics (mouse and cell line)
 │   ├── single_cell/         # scRNA-seq data (human breast cancer, ICB-treated)
@@ -21,3 +22,4 @@ Repository Structure
 │   ├── GSMM/                # Genome-scale metabolic models and constraints
 │
 └── README.md
+```
